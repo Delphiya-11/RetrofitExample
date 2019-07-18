@@ -17,7 +17,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class MainActivity extends AppCompatActivity {
 
     public static String BaseUrl="http://api.openweathermap.org/";
-    public static String Appid="2e65127e909e178d0af311a81f39948c";
+    public static String Appid="ff8451c2173751c798dc36086bf95a7b";
     public static String lat="22.480560";
     public static String lon="88.314866";
     public static String city="Kolkata,IN";
